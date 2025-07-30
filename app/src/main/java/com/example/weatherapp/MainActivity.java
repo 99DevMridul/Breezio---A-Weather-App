@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     EditText cityInput;
     Button searchBtn;
 
-    String API_KEY = "{API Key}";
+    String API_KEY = "{ API Key}";
     SharedPreferences prefs;
 
     @Override
