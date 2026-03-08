@@ -15,11 +15,6 @@ The app also provides a **Tip of the Day** based on the current weather and reme
 
 ---
 
-## 📱 Screenshots
-_Add screenshots of your app UI here_
-
----
-
 ## 🛠️ Tech Stack
 - **Java** (Android Development)
 - **XML** (UI Design)
